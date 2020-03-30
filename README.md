@@ -1,4 +1,4 @@
-# stepik---auto-tests-course
+# STEPIK
 Homework 
 
 Добрый человек прочитает описание и поставит баллы :)
