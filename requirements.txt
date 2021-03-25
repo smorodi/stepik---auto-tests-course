@@ -38,7 +38,7 @@ pytest==5.1.1
 python-dateutil==2.8.1
 pytz==2019.3
 pywin32-ctypes==0.2.0
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.22.0
 requests-toolbelt==0.8.0
 scikit-learn==0.22
